@@ -1,8 +1,10 @@
 Sistema de monitoramento da porta do ônibus
-  Integrandes:
-  -Dilton Vilhena Brandão
-  -Igor Pamplona Trindade
 
+
+Integrandes:   ]
+<p>
+-Dilton Vilhena Brandão                                                                                                        -Igor Pamplona Trindade
+</p>
 -resumo do funcionamento 
 
 -objetivo do trabalho
