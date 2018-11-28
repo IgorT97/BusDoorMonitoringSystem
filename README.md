@@ -15,6 +15,6 @@ Neste projeto é apresentado a elaboração e a construção de um sistema para 
 2 Micro Servo 9g SG90 TowerPro<br>
 1 Botão <br>
 1 Resistor 10k ohms <br>
-2 Protoboard
-1 Bateria 9V
-1 Bateria 5V
+2 Protoboard <br>
+1 Bateria 9V <br>
+1 Bateria 5V <br>
