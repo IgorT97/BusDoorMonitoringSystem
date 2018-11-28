@@ -1,2 +1,1 @@
-# BusDoorSystem
- System that would avoid accidents when opening and closing the bus door.
+Sistema que evitaria acidentes ao abrir e fechar a porta do ônibus.
