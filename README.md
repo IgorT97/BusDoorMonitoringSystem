@@ -16,3 +16,5 @@ Neste projeto é apresentado a elaboração e a construção de um sistema para 
 1 Botão <br>
 1 Resistor 10k ohms <br>
 2 Protoboard
+1 Bateria 9V
+1 Bateria 5V
