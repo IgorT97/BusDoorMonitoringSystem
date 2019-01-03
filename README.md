@@ -24,3 +24,7 @@ Dilton Vilhena Brandão    <br>                                                 
 2 Protoboard <br>
 1 Bateria 9V <br>
 1 Bateria 5V <br>
+
+<h2>Biblioteca módulo I2C</h2>
+
+<p>Baixe o arquivo LiquidCrystalI2C.zip presente no repostório e inclua a biblioteca na ide do arduino.</p>
